@@ -106,6 +106,7 @@ hotmail.fr,imap-mail.outlook.com,993,smtp-mail.outlook.com,587
 hushmail.com,imap.hushmail.com,993,smtp.hushmail.com,465
 illinois.edu, imap.gmail.com,993,smtp.gmail.com,465
 iname.com,imap.mail.com,993,smtp.mail.com,587
+inbox.ru,imap.mail.ru,993,smtp.mail.ru,465
 inf.h-brs.de,imap.inf.h-brs.de,993,smtp.inf.h-brs.de,587
 insiberia.net,mail.autistici.org,993,smtp.autistici.org,465
 insicuri.net,mail.autistici.org,993,smtp.autistici.org,465
